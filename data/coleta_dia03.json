@@ -1,0 +1,23 @@
+[
+    {
+        "Product": "Notebook Gamer",
+        "Category": "Eletronic",
+        "Quantity": 2,
+        "Sold": 1500,
+        "Date": "2023-01-17"
+    },
+    {
+        "Product": "Wireless Mouse",
+        "Category": "Eletronic",
+        "Quantity": 14,
+        "Sold": 30,
+        "Date": "2023-01-17"
+    },
+    {
+        "Product": "Mecanic Keyboard",
+        "Category": "Eletronic",
+        "Quantity": 2,
+        "Sold": 100,
+        "Date": "2023-01-17"
+    }
+]
